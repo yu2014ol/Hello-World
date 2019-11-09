@@ -1,5 +1,10 @@
 # Hello-World
 Test
 hi,everyone!
-I've another.
-Creating a new branch is quick & simple.
+<<<<<<< HEAD
+I've changed.
+Creating a new branch is quick AND simple.
+=======
+I've changed.
+Creating a new branch is quick AND simple.
+>>>>>>> feature1
