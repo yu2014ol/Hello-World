@@ -2,4 +2,4 @@
 Test
 hi,everyone!
 I've another.
-Local Simple
+Creating a new branch is quick & simple.
